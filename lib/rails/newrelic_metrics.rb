@@ -1,0 +1,5 @@
+require 'json'
+require 'open-uri'
+require 'time'
+require 'rails/newrelic_metrics/api'
+require 'rails/newrelic_metrics/unused_actions'
